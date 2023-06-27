@@ -22,7 +22,7 @@ function calculate() {
   ) {
     resultDiv.innerHTML = "";
     resultDiv2.innerHTML = "";
-    resultWarn.innerText = "Please fill in all fields!";
+    resultWarn.innerText = "Please fill in all fields! - !يرجى ملء جميع الحقول";
     return;
   }
 
